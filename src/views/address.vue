@@ -45,7 +45,7 @@
                     </div>
                     <div class="check-step">
                         <ul>
-                            <li class="cur"><span>Confirm</span> addressss</li>
+                            <li class="cur"><span>Confirm</span> address</li>
                             <li><span>View your</span> order</li>
                             <li><span>Make</span> payment</li>
                             <li><span>Order</span> confirmation</li>
