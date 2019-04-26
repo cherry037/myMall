@@ -52,7 +52,7 @@
                         </ul>
                     </div>
                     <div class="page-title-normal checkout-title">
-                        <h2><span>Shipping address</span></h2>
+                        <h2><span>Shipping addresss</span></h2>
                     </div>
                     <div class="addr-list-wrap">
                         <div class="addr-list">
