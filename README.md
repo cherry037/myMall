@@ -1,6 +1,6 @@
 # mymall
 
-> A Vue.js project
+> A Vue.js and express project
 
 ## Build Setup
 
