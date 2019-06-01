@@ -41,7 +41,7 @@
                         </div>
                     </div>
                 </div>
-                 <div class="view-more-normal"
+                <div class="view-more-normal"
                     v-infinite-scroll="loadMore"
                     infinite-scroll-disabled="busy"
                     infinite-scroll-distance="20">
